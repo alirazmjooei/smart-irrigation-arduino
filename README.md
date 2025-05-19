@@ -57,9 +57,14 @@ Feel free to open issues or submit pull requests for improvements or bug fixes.
 
 ---
 
-## License
+## 📄 Project Report
+You can download and read the full technical report [here](SmartIrrigation_Report.pdf).
 
+---
+
+## 📜 License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 
 ---
 
