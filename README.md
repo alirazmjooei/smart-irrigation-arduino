@@ -66,5 +66,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contact
 
 Author: Ali Razmjooei  
-Email: liebedeveloping69@gmail.com  
+Email: alirazmjooei1999@gmail.com  
 GitHub: [alirazmjooei](https://github.com/alirazmjooei)  
