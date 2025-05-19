@@ -1,0 +1,10 @@
+# Ignore build folders
+build/
+*.tmp
+*.log
+
+# Ignore macOS files
+.DS_Store
+
+# Ignore Windows files
+Thumbs.db
