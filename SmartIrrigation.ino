@@ -54,9 +54,11 @@ void loop() {
   float temperature = dht.readTemperature();
   float humidity = dht.readHumidity();
 
-  if (isnan(temperature) || isnan(humidity)) {
+   if (isnan(temperature) || isnan(humidity)) {
     Serial.println("Failed to read from DHT sensor!");
-    return;
+    temperature = -1;
+    humidity = -1;
+    // فقط لاگ را انجام نده یا مقدار -1 لاگ کن
   }
 
   // منطق آبیاری
